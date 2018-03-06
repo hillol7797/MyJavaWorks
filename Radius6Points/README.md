@@ -1,0 +1,1 @@
+Consider six distinct points in the X-Y plane. Read their coordinates from the terminal. Find out if there are any three of the input points, that are non-colinear and that have a circum-circle of radius greater than 1.
