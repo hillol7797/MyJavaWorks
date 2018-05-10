@@ -50,7 +50,6 @@ public class WebCrawler {
             StringBuilder sb=new StringBuilder();
             String temp;
             while ((temp=br.readLine())!=null){
-                System.out.println(temp);
                 sb.append(temp);
             }
             temp=sb.toString();
